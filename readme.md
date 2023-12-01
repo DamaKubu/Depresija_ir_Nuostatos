@@ -12,4 +12,15 @@ Padariau psytools survey, bet yra keli nefaini aspektai, dėl ko nenoriu dar jo 
 
 
 Būtų fainai tsg svetainė, kur padaro survey gaunu jų duomenis, ir iškart vizualizuoju sexy.
- 
+
+
+
+
+
+ Depresija ir nuostatos.
+
+Tirami du aspektai:
+
+1. Depresijos ir nuostatos koreliuoja tiese.
+
+2. Moterų ir vyrų koreliacijos tiesės skiriasi.
