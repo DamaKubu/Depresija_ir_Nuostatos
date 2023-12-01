@@ -24,3 +24,9 @@ Tirami du aspektai:
 1. Depresijos ir nuostatos koreliuoja tiese.
 
 2. Moterų ir vyrų koreliacijos tiesės skiriasi.
+
+https://www.psytoolkit.org/c/3.4.4/settings
+
+Psytools nuostabus įrankis, bet trūksta esminio smagumo, kai žmogus padaro survey pamatytų savo rezultatus.
+Gautų kažkokį tai rewardą.
+Aišku po laiko ateis rezultatai ir ten įdomu. Bet kiekvienam esam pats sau įdomiausi. Tai gal net varkė būtų sukurt programą, kurioj po survey gautų užkart savo rezultatus ir galėtų su kitais palygint.
