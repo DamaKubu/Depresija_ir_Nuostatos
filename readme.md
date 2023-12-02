@@ -1,32 +1,34 @@
-Padariau psytools survey, bet yra keli nefaini aspektai, dėl ko nenoriu dar jo dalintis:
-
-- veins dalyks uns dafiga užtrunk. minimum 15minučiu
-
-- už tas minutis žmones negaun sava rezultatą,
- galėčiau paprašyti įvesti sava emaila ir nusiūščiau anims duomenis procesavis su pythonu.
- Jo mon reikės papildomai prieto toliau dirbti ir tai nescalins gerai. Pvz:. 1000 žmonių jau sunke bus mon. Nu reikės rašyti automatizuotą skriptą.
- Bet žmonėms rezultatų savo reikės ilgai laukt.
-
-
-- būtų sexy, fainai automatiškai tsg padaro survey ir gauna grafikus ir all that good shit.
-
-
-Būtų fainai tsg svetainė, kur padaro survey gaunu jų duomenis, ir iškart vizualizuoju sexy.
-
-
-
-
-
  Depresija ir nuostatos.
+----------------------------
 
-Tirami du aspektai:
 
-1. Depresijos ir nuostatos koreliuoja tiese.
+Hipotezės:
+----------
 
-2. Moterų ir vyrų koreliacijos tiesės skiriasi.
+Pagrindinė hipotezė:
 
-https://www.psytoolkit.org/c/3.4.4/settings
+- Disfunkcinės nuostatos lemia žmogaus nelaimingumą.
+ Jei hipotezė teisinga, nuostatos ir laimės lygis turėtų stipriai koreliuoti.
+ Jei koreliacijos nebus hipotezę reiks atmesti.
 
-Psytools nuostabus įrankis, bet trūksta esminio smagumo, kai žmogus padaro survey pamatytų savo rezultatus.
-Gautų kažkokį tai rewardą.
-Aišku po laiko ateis rezultatai ir ten įdomu. Bet kiekvienam esam pats sau įdomiausi. Tai gal net varkė būtų sukurt programą, kurioj po survey gautų užkart savo rezultatus ir galėtų su kitais palygint.
+- Vyrai ir moterys stipriai skirasi: Šitą patestuoti galima visus atsakymus atsitiktinai daug kartų išmėtyti į dvi grupes ir palyginti, grupių skirtumus(disfunkcinių nuostatų variacija, vidurkiai) su vyrų ir moterų grupių skirtumais. Taip pat moterų ir vyrų DNS ir laimės koreliacijos tiesės skirsis. 
+
+- Moterys vidutiniškai turi aukštesnį emocinį intelektą, ko pasekoje ir mažiau disfunkcinių nuostatų. Bet dėl kitų priežasčių(pvz.: mėnesinių turėjimo), jų laimės indeksas nesiskiria nuo vyrų. Jei nematysime žymaus skirtumą tarp koreliacijos tiesių vyrų ir moterų atvejyje, hipotezė bus paneigta.
+
+- Žmonės keičia religija, jei turėjo disfunkcinę šeimą. Ir nekeičia religijos, jei turėjo sveiką ir gerą vaikystę. Koreliacijos nebuvimas tarp dviejų klausimų apie šeimą ir vaikystę paneigtų hipotezę.
+
+
+
+
+Kuo geresnis už pirmąjį tyrimą?
+------------------------------------
+- Anonimizuotą
+
+- Imtys darysiu didesnę, minimum 100žmonių.
+
+- Laimingumo/depresijos skalė trumpa ir iš kito autoriaus!
+ 
+- Disfunkcinių nuostatų skalė patobulinta!
+Klausimai randomizuoti, tai yra neaišku apie kokį koncepta(pasitikėjima, meilę, anatomija,...) klausimas tiria.
+Taip pat pusę klausimų yra apversti, teigiamas atsakymas nebūtinai yra gerai.
+Orginaliame teste teigiamas atsakymas visada buvo gerai. Tad žmogus, net neskaitydamas galėtų gauti labai aukštą rezultatą.
