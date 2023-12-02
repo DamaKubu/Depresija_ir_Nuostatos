@@ -6,11 +6,11 @@ Hipotezės:
 ----------
 
 Pagrindinė hipotezė:
-
 - Disfunkcinės nuostatos lemia žmogaus nelaimingumą.
  Jei hipotezė teisinga, nuostatos ir laimės lygis turėtų stipriai koreliuoti.
  Jei koreliacijos nebus hipotezę reiks atmesti.
 
+Papildomos hipotezės:
 - Vyrai ir moterys stipriai skirasi: Šitą patestuoti galima visus atsakymus atsitiktinai daug kartų išmėtyti į dvi grupes ir palyginti, grupių skirtumus(disfunkcinių nuostatų variacija, vidurkiai) su vyrų ir moterų grupių skirtumais. Taip pat moterų ir vyrų DNS ir laimės koreliacijos tiesės skirsis. 
 
 - Moterys vidutiniškai turi aukštesnį emocinį intelektą, ko pasekoje ir mažiau disfunkcinių nuostatų. Bet dėl kitų priežasčių(pvz.: mėnesinių turėjimo), jų laimės indeksas nesiskiria nuo vyrų. Jei nematysime žymaus skirtumą tarp koreliacijos tiesių vyrų ir moterų atvejyje, hipotezė bus paneigta.
