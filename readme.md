@@ -29,6 +29,8 @@ Kuo geresnis už pirmąjį tyrimą?
 - Laimingumo/depresijos skalė trumpa ir iš kito autoriaus!
  
 - Disfunkcinių nuostatų skalė patobulinta!
-  *Klausimai randomizuoti, tai yra neaišku apie kokį koncepta(pasitikėjima, meilę, anatomija,...) klausimas tiria.
-  *Taip pat pusę klausimų yra apversti, teigiamas atsakymas nebūtinai yra sveikas atsakymas.
+  
+    1. Klausimai randomizuoti, tai yra neaišku apie kokį koncepta(pasitikėjima, meilę, anatomija,...) klausimas tiria.
+  
+    2. Taip pat pusę klausimų yra apversti, teigiamas atsakymas nebūtinai yra sveikas atsakymas.
    _(Orginaliame teste teigiamas atsakymas visada buvo gerai. Tad žmogus, net neskaitydamas galėtų gauti labai aukštą rezultatą.)_
