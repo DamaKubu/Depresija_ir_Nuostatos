@@ -11,22 +11,23 @@ Pagrindinė hipotezė:
  Jei koreliacijos nebus hipotezę reiks atmesti.
 
 Papildomos hipotezės:
-- Vyrai ir moterys stipriai skirasi: Šitą patestuoti galima visus atsakymus atsitiktinai daug kartų išmėtyti į dvi grupes ir palyginti, grupių skirtumus(disfunkcinių nuostatų variacija, vidurkiai) su vyrų ir moterų grupių skirtumais. Taip pat moterų ir vyrų DNS ir laimės koreliacijos tiesės skirsis. 
+- Vyrai ir moterys stipriai skirasi: Šitą patestuoti galima atsitiktinai parinkti dvi grupes agentų ir palyginti su moterų ir vyrų grupėmis. Hipotezė reiks atmesti, jei tikėtina iš duomenų, jog moterų ir vyrų grupės nesiskiria nuo atsitiktinai parinktų. Jeigu tikėtina ištaukti tokias grupes iš agentų populiacijos, tai vėlgi hipotezės nenaudai.
 
-- Moterys vidutiniškai turi aukštesnį emocinį intelektą, ko pasekoje ir mažiau disfunkcinių nuostatų. Bet dėl kitų priežasčių(pvz.: mėnesinių turėjimo), jų laimės indeksas nesiskiria nuo vyrų. Jei nematysime žymaus skirtumą tarp koreliacijos tiesių vyrų ir moterų atvejyje, hipotezė bus paneigta.
+- Moterys vidutiniškai turi aukštesnį emocinį intelektą, ko pasekoje turi mažiau disfunkcinių nuostatų. Bet dėl kitų priežasčių(pvz.: mėnesinių turėjimo), jų laimės indeksas nesiskiria nuo vyrų. Jei nematysime žymaus skirtumą tarp vyrų ir moterų laimės ir DNS koreliacijos tiesių. hipotezė bus paneigta.
 
-- Žmonės keičia religija, jei turėjo disfunkcinę šeimą. Ir nekeičia religijos, jei turėjo sveiką ir gerą vaikystę. Koreliacijos nebuvimas tarp dviejų klausimų apie šeimą ir vaikystę paneigtų hipotezę.
+- Iš anekdotinių savo pažystamų, atrodo, jog žmonės keičia religija, jei turėjo disfunkcinę šeimą ir religijos nekeičia, jei turėjo sveiką ir gerą vaikystę.
+ Koreliacijos nebuvimas tarp religingumo pasikeitimo, bei šeimos disfunkcionalumo paneigia hipotezę.
 
 
 
 
 Kuo geresnis už pirmąjį tyrimą?
 ------------------------------------
-- Anonimizuotą
+- Anonimizuotą. 
 
-- Imtys darysiu didesnę, minimum 100žmonių.
+- Imtį darysiu didesnę, mažiausiai 100 žmonių.
 
-- Laimingumo/depresijos skalė trumpa ir iš kito autoriaus!
+- Depresijos skalė -> Laimingumo skalė, kuri yra trumpa ir iš kito autoriaus! 
  
 - Disfunkcinių nuostatų skalė patobulinta!
   
@@ -34,3 +35,4 @@ Kuo geresnis už pirmąjį tyrimą?
   
     2. Taip pat pusę klausimų yra apversti, teigiamas atsakymas nebūtinai yra sveikas atsakymas.
    _(Orginaliame teste teigiamas atsakymas visada buvo gerai. Tad žmogus, net neskaitydamas galėtų gauti labai aukštą rezultatą.)_
+
